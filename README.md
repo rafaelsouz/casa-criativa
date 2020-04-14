@@ -1,7 +1,6 @@
 <h1 align="center"> Casa criativa </h1>
 <br>
-<h3 align="center"> Home </h3>
-<img align = 'center' src="screenshots.png" alt="Home do site">
+<img align = 'center' src="./screenshot.png" alt="Home do site">
 <br>
 
 Site feito para treinar meus conhecimentos em flexbox.
